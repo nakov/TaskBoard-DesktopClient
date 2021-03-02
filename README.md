@@ -15,3 +15,4 @@ Windows Forms Client for the TaskBoard RESTful API.
 
 ![image](https://user-images.githubusercontent.com/1689586/109712567-dac50800-7ba8-11eb-9bc6-0bbc689ea275.png)
 
+![image](https://user-images.githubusercontent.com/1689586/109716388-7eb0b280-7bad-11eb-840c-0590eddd7082.png)
